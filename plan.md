@@ -210,7 +210,7 @@ secure-web-assistant/
 │   │   │
 │   │   ├── models/                     # ML models & serialized weights
 │   │   │   ├── __init__.py
-│   │   │   ├── train.py                # Train RF/XGBoost on dataset
+│   │   │   ├── train.ipynb              # Train RF/XGBoost on dataset
 │   │   │   └── phishing_model.pkl      # Serialized trained model
 │   │   │
 │   │   └── services/                   # Core security & scanning logic
