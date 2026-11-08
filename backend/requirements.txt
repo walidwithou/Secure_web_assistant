@@ -9,5 +9,5 @@ beautifulsoup4
 tldextract
 python-whois
 dnspython
-catboost
+
 xgboost
