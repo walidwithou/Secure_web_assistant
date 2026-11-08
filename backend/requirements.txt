@@ -1,10 +1,14 @@
 fastapi
-uvicorn
+uvicorn[standard]
+gunicorn
 pydantic
+joblib
+
 scikit-learn
 pandas
 numpy
 requests
+
 beautifulsoup4
 tldextract
 python-whois
